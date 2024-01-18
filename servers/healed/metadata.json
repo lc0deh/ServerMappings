@@ -1,15 +1,16 @@
 {
-    "id": "healed",
-    "name": "Healed Network",
-    "store": "https://store.healed.lol/",
+    "id": "hcrise",
+    "name": "HCRise Network",
+    "store": "https://store.hcrise.live/",
     "description": "The best old pvp server",
     "addresses": [
+        "hcrise.live",
         "healed.lol",
         "veraxpvp.live",
         "verzmc.lat"
     ],
-    "primaryAddress": "healed.lol",
-    "primaryColor": "#4DFF00",
+    "primaryAddress": "hcrise.live",
+    "primaryColor": "#FF0000",
     "secondaryColor": "#ffffff",
     "minecraftVersions": [
         "1.8.*",
@@ -36,6 +37,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/a3mz2t8Vv6"
+        "discord": "https://discord.gg/hcrise"
     }
 }
